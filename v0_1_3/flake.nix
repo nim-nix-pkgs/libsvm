@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-libsvm-v0_1_3.flake = false;
+  inputs.src-libsvm-v0_1_3.ref   = "refs/tags/v0.1.3";
   inputs.src-libsvm-v0_1_3.owner = "genotrance";
-  inputs.src-libsvm-v0_1_3.ref   = "v0_1_3";
   inputs.src-libsvm-v0_1_3.repo  = "libsvm";
   inputs.src-libsvm-v0_1_3.type  = "github";
   
