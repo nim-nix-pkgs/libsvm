@@ -11,7 +11,6 @@
   inputs.src-libsvm-master.ref   = "refs/heads/master";
   inputs.src-libsvm-master.owner = "genotrance";
   inputs.src-libsvm-master.repo  = "libsvm";
-  inputs.src-libsvm-master.dir   = "";
   inputs.src-libsvm-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
